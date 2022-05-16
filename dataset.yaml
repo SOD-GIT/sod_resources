@@ -1,0 +1,6 @@
+
+# number of classes
+nc: 10
+
+# class names
+names: ['Airplane', 'Bridge', 'Cross_Roads', 'Helipad', 'River', 'Solar_Farm', 'Stadium', 'Storage_Tank', 'Volcano', 'Watercraft']
